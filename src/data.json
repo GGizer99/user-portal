@@ -1,0 +1,22 @@
+{
+  "loggedAdmin": { "id": 1, "name": "Admin User" },
+  "userList": [
+    { "id": 1, "name": "aa", "email": "test1@.com", "role": 2, "isActive": 1 },
+    { "id": 2, "name": "mercan123", "email": "dsever@notitek.com", "role": 1, "isActive": 1 },
+    { "id": 3, "name": "user", "email": "user@user.com", "role": 3, "isActive": 0 },
+    { "id": 4, "name": "user1", "email": "user1@user.com", "role": 4, "isActive": 1 }
+  ],
+  "companyList": [
+    { "id": 1, "name": "Company A" },
+    { "id": 2, "name": "Company B" },
+    { "id": 3, "name": "Company C" },
+    { "id": 4, "name": "Company D" },
+    { "id": 5, "name": "Company E" }
+  ],
+  "userCompanyList": [
+    { "userId": 1, "companies": [1] },
+    { "userId": 2, "companies": [2] }
+  ]
+}
+
+
